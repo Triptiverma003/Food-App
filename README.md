@@ -29,7 +29,7 @@ Snapcart includes AI to enhance user and delivery experience:
 ## 📸 Screenshots
 
 ### 🧑‍💼 Admin Dashboard
-![Admin Dashboard](screenshots/AdminDashboard.jpeg)
+![Admin Dashboard](./AdminDashboard.jpeg)
 
 **Features:**
 - Total earnings & revenue tracking
